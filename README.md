@@ -1,1 +1,1 @@
-# GIthub-Traffic-Analytics
+# Github-Traffic-Analytics
